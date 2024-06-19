@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "dependencies": {
     "express": "^4.19.2",
-    "puppeteer": "^14.4.0",
+    "puppeteer": "^22.11.2",
     "request": "^2.88.2",
     "cors": "^2.8.5",
     "json-2-csv": "^3.0.0"
