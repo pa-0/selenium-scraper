@@ -2,7 +2,7 @@
   "name": "store-scraper",
   "version": "1.0.0",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "puppeteer": "^22.11.2",
     "request": "^2.88.2",
     "cors": "^2.8.5",
